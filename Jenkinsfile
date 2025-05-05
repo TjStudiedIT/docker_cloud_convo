@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-       imagename = "tkibnyusuf/jan_docker_project"
+       imagename = "TjStudiedIT/may_docker_project"
        registryCredential = 'dockerpass'
        dockerImage = ''
            }
